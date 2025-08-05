@@ -1,0 +1,56 @@
+11:12:22.785 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest ***
+11:12:23.009 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+11:12:26.315 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration link
+11:12:26.319 [main] INFO  testCases.TC001_AccountRegistrationTest - Provide Registration Information
+11:12:28.647 [main] INFO  testCases.TC001_AccountRegistrationTest - validate Expected Msg
+11:12:28.712 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest*** 
+11:12:40.553 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Started ***
+11:12:40.556 [main] INFO  testCases.TC002_LoginTest - Click on My Account Page
+11:12:40.730 [main] INFO  testCases.TC002_LoginTest - Click On Login
+11:12:41.201 [main] INFO  testCases.TC002_LoginTest - On Login Page
+11:12:41.207 [main] INFO  testCases.TC002_LoginTest - Login page opens
+11:12:41.709 [main] INFO  testCases.TC002_LoginTest - Check if Account page is displayed or not
+11:12:42.568 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
+11:30:06.883 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Prashant\eclipse-workspace\Opencartv122\master.xml
+
+11:30:23.666 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest ***
+11:30:23.874 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+11:30:27.207 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration link
+11:30:27.211 [main] INFO  testCases.TC001_AccountRegistrationTest - Provide Registration Information
+11:30:30.456 [main] INFO  testCases.TC001_AccountRegistrationTest - validate Expected Msg
+11:30:30.534 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest*** 
+11:30:35.364 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Started ***
+11:30:35.365 [main] INFO  testCases.TC002_LoginTest - Click on My Account Page
+11:30:35.543 [main] INFO  testCases.TC002_LoginTest - Click On Login
+11:30:36.016 [main] INFO  testCases.TC002_LoginTest - On Login Page
+11:30:36.022 [main] INFO  testCases.TC002_LoginTest - Login page opens
+11:30:37.449 [main] INFO  testCases.TC002_LoginTest - Check if Account page is displayed or not
+11:30:37.533 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
+11:32:26.015 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Prashant\eclipse-workspace\Opencartv122\master.xml
+
+11:32:34.951 [main] INFO  testCases.TC001_LoginDDT - *** Starting TC001_LoginDDT ****
+11:32:39.231 [main] INFO  testCases.TC001_LoginDDT - *** Ending TC001_LoginDDT ****
+11:32:39.276 [main] INFO  testCases.TC001_LoginDDT - *** Starting TC001_LoginDDT ****
+11:32:51.745 [main] INFO  testCases.TC001_LoginDDT - *** Ending TC001_LoginDDT ****
+11:32:51.758 [main] INFO  testCases.TC001_LoginDDT - *** Starting TC001_LoginDDT ****
+11:33:03.231 [main] INFO  testCases.TC001_LoginDDT - *** Ending TC001_LoginDDT ****
+11:33:03.243 [main] INFO  testCases.TC001_LoginDDT - *** Starting TC001_LoginDDT ****
+11:33:15.336 [main] INFO  testCases.TC001_LoginDDT - *** Ending TC001_LoginDDT ****
+11:33:15.345 [main] INFO  testCases.TC001_LoginDDT - *** Starting TC001_LoginDDT ****
+11:42:00.660 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+11:42:00.670 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+11:42:00.672 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:42:00.674 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:42:00.675 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:42:00.675 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:42:00.676 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:42:00.677 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:42:00.685 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+11:42:00.701 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+11:42:00.704 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:42:00.706 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:42:00.707 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:42:00.707 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:42:00.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.

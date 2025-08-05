@@ -1,0 +1,49 @@
+15:21:50.976 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest ***
+15:21:51.086 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+15:21:51.522 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration link
+15:21:51.524 [main] INFO  testCases.TC001_AccountRegistrationTest - Provide Registration Information
+15:21:52.831 [main] INFO  testCases.TC001_AccountRegistrationTest - validate Expected Msg
+15:21:52.860 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case Failed...
+15:21:52.860 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug Logs
+16:36:08.374 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest ***
+16:36:08.485 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+16:36:09.059 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration link
+16:36:09.061 [main] INFO  testCases.TC001_AccountRegistrationTest - Provide Registration Information
+16:36:10.323 [main] INFO  testCases.TC001_AccountRegistrationTest - validate Expected Msg
+16:36:10.359 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest*** 
+16:38:05.201 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest ***
+16:38:05.297 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+16:38:06.878 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration link
+16:38:06.879 [main] INFO  testCases.TC001_AccountRegistrationTest - Provide Registration Information
+16:38:07.389 [main] INFO  testCases.TC001_AccountRegistrationTest - validate Expected Msg
+16:38:08.338 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest*** 
+14:23:46.649 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest ***
+14:23:46.767 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+14:23:47.439 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration link
+14:23:47.452 [main] INFO  testCases.TC001_AccountRegistrationTest - Provide Registration Information
+14:23:48.006 [main] INFO  testCases.TC001_AccountRegistrationTest - validate Expected Msg
+14:23:48.764 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest*** 
+14:35:10.201 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest ***
+14:35:13.424 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest ***
+14:35:13.512 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+14:35:13.912 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration link
+14:35:13.915 [main] INFO  testCases.TC001_AccountRegistrationTest - Provide Registration Information
+14:35:14.484 [main] INFO  testCases.TC001_AccountRegistrationTest - validate Expected Msg
+14:35:15.409 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest*** 
+14:37:38.179 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest ***
+14:37:38.313 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+14:37:38.689 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration link
+14:37:38.692 [main] INFO  testCases.TC001_AccountRegistrationTest - Provide Registration Information
+14:37:39.988 [main] INFO  testCases.TC001_AccountRegistrationTest - validate Expected Msg
+14:37:40.021 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest*** 
+14:37:42.498 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest ***
+14:37:42.572 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+14:37:42.960 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration link
+14:37:42.960 [main] INFO  testCases.TC001_AccountRegistrationTest - Provide Registration Information
+14:37:44.351 [main] INFO  testCases.TC001_AccountRegistrationTest - validate Expected Msg
+14:37:44.379 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest*** 
+14:39:40.778 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest ***
+14:39:40.778 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest ***
+14:39:40.950 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+14:39:40.959 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+14:39:41.340 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration link
